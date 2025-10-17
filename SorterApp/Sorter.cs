@@ -79,7 +79,7 @@ class Program
 
                             long offA = (long)j * sizeof(int);
                             long offB = (long)(j + 1) * sizeof(int);
-                            if (offB + sizeof(int) > accessor.Capacity) continue; // пропустити, якщо виходимо за межі
+                            if (offB + sizeof(int) > accessor.Capacity) continue;
 
                             int a = accessor.ReadInt32(j * 4);
                             int b = accessor.ReadInt32((j + 1) * 4);

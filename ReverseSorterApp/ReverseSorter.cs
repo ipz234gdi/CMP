@@ -70,7 +70,6 @@ class Program
                 for (int i = 0; i < count - 1; i++)
                 {
                     int maxIdx = i;
-                    // знайти максимальний елемент у діапазоні [i..count-1]
                     for (int j = i + 1; j < count; j++)
                     {
                         long offJ = (long)j * sizeof(int);
@@ -95,7 +94,6 @@ class Program
                             int a = accessor.ReadInt32(i * 4);
                             int b = accessor.ReadInt32(maxIdx * 4);
 
-                            // обміняти місцями (щоб сортувати спадно)
                             accessor.Write(i * 4, b);
                             accessor.Write(maxIdx * 4, a);
                             accessor.Flush();
@@ -105,7 +103,6 @@ class Program
                             if (locked) localMutex?.ReleaseMutex();
                         }
 
-                        // пауза для візуалізації у Viewer
                         Thread.Sleep(1000);
                     }
                 }
