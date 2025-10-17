@@ -1,0 +1,61 @@
+# Visual Studio / .NET
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build outputs
+**/bin/
+**/obj/
+**/out/
+artifacts/
+
+# Rider/JetBrains
+*.iml
+.idea/
+
+# NuGet
+*.nupkg
+packages/
+project.lock.json
+project.fragment.lock.json
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Dotnet publish
+publish/
+
+# Logs and database files
+*.log
+*.sqlite
+*.db
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Rider caches
+.idea/
+*.sublime-workspace
+
+# Generated data file (не відслідковувати згенерований масив)
+data.dat
+
+# User-specific/temporary
+*.user
+*.userprefs
+*.tmp
+*.temp
+
+# Executables (в bin/ будуть і так ігноровані, додатково)
+*.exe
+*.dll
+*.pdb
+
+# JetBrains Rider
+/.idea/
+/*.sln.iml
