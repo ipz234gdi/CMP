@@ -1,0 +1,4 @@
+SMTP_SERVER=smtp.gmail.com
+SENDER_EMAIL=reiclid@gmail.com
+SENDER_PASSWORD=sdotgfvnoriiisqh
+ADMIN_EMAIL=1206muy@gmail.com

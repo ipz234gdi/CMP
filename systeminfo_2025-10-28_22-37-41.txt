@@ -1,0 +1,74 @@
+
+Host Name:                     REICLID
+OS Name:                       Microsoft Windows 11 Pro
+OS Version:                    10.0.26200 N/A Build 26200
+OS Manufacturer:               Microsoft Corporation
+OS Configuration:              Standalone Workstation
+OS Build Type:                 Multiprocessor Free
+Registered Owner:              1206muy@gmail.com
+Registered Organization:       N/A
+Product ID:                    00330-80000-00000-AA846
+Original Install Date:         6/13/2025, 12:52:44 AM
+System Boot Time:              10/28/2025, 9:58:49 PM
+System Manufacturer:           Micro-Star International Co., Ltd.
+System Model:                  MS-7C96
+System Type:                   x64-based PC
+Processor(s):                  1 Processor(s) Installed.
+                               [01]: AMD64 Family 25 Model 80 Stepping 0 AuthenticAMD ~3600 Mhz
+BIOS Version:                  American Megatrends International, LLC. 1.B0, 8/11/2022
+Windows Directory:             C:\WINDOWS
+System Directory:              C:\WINDOWS\system32
+Boot Device:                   \Device\HarddiskVolume2
+System Locale:                 en-us;English (United States)
+Input Locale:                  en-us;English (United States)
+Time Zone:                     (UTC+02:00) Helsinki, Kyiv, Riga, Sofia, Tallinn, Vilnius
+Total Physical Memory:         16,276 MB
+Available Physical Memory:     1,902 MB
+Virtual Memory: Max Size:      42,900 MB
+Virtual Memory: Available:     19,639 MB
+Virtual Memory: In Use:        23,261 MB
+Page File Location(s):         D:\pagefile.sys
+Domain:                        WS-66-9
+Logon Server:                  \\REICLID
+Hotfix(s):                     6 Hotfix(s) Installed.
+                               [01]: KB5066128
+                               [02]: KB5050575
+                               [03]: KB5054156
+                               [04]: KB5059093
+                               [05]: KB5066835
+                               [06]: KB5067360
+Network Card(s):               5 NIC(s) Installed.
+                               [01]: Realtek PCIe GbE Family Controller
+                                     Connection Name: Ethernet
+                                     DHCP Enabled:    Yes
+                                     DHCP Server:     192.168.1.1
+                                     IP address(es)
+                                     [01]: 192.168.1.100
+                                     [02]: fe80::748:513f:b153:9267
+                               [02]: Bluetooth Device (Personal Area Network)
+                                     Connection Name: Bluetooth Network Connection
+                                     Status:          Media disconnected
+                               [03]: TAP-Windows Adapter V9
+                                     Connection Name: Local Area Connection
+                                     Status:          Media disconnected
+                               [04]: VirtualBox Host-Only Ethernet Adapter
+                                     Connection Name: Ethernet 2
+                                     DHCP Enabled:    No
+                                     IP address(es)
+                                     [01]: 192.168.56.1
+                                     [02]: fe80::67d0:676f:bdc0:b826
+                               [05]: Famatech Radmin VPN Ethernet Adapter
+                                     Connection Name: Radmin VPN
+                                     DHCP Enabled:    No
+                                     IP address(es)
+                                     [01]: 26.35.22.174
+                                     [02]: fe80::37e2:e7ba:29b9:4886
+                                     [03]: fdfd::1a23:16ae
+Virtualization-based security: Status: Not enabled
+                               App Control for Business policy: Enforced
+                               App Control for Business user mode policy: Off
+                               Security Features Enabled:
+Hyper-V Requirements:          VM Monitor Mode Extensions: Yes
+                               Virtualization Enabled In Firmware: Yes
+                               Second Level Address Translation: Yes
+                               Data Execution Prevention Available: Yes
